@@ -35,7 +35,7 @@
 | Repositorio | Qué es |
 | --- | --- |
 | [`nexus-docs`](https://github.com/nexus-iti/nexus-docs) | Documentación técnica, entregas y guías |
-| `gravida` | NEXUS / SGRSI — gestión de recursos y servicios de informática (privado) |
+| [`gravida`](https://github.com/nexus-iti/gravida) | NEXUS / SGRSI — gestión de recursos y servicios de informática (privado) |
 
 ## Identidad
 
