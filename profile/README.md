@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://cdn.wefaber.net/images/nexus_banner.png" alt="Nexus" width="100%">
+  
+  <img width="2706" height="1218" alt="Nexus_Banner (Custom)" src="https://github.com/user-attachments/assets/321a3163-0913-4f16-9186-68bc4523a0d3" />
+
 </p>
 
 <h3 align="center">Software con foco en diseño, AI y productividad.</h3>
@@ -41,7 +43,3 @@
 | --- | --- |
 | Paleta | `#5D12D2` · `#B931FC` · `#FF6AC2` · `#FFE5E5` |
 | Tipografía | Bricolage Grotesque · Host Grotesk · Space Grotesk |
-
-<p align="right">
-  <img src="https://cdn.wefaber.net/images/nexus_logo_fondo.png" alt="Nexus" width="56">
-</p>
